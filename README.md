@@ -25,3 +25,6 @@ The current repository includes processed diagnostic files related to:
    Example files:
    - `StepSK_DUACS_SLA_onset_composite.csv`
    - `StepSK_DUACS_SLA_AUC_skill_summary.csv`
+For example, in python:
+import pandas as pd
+T = pd.read_csv("StepTD_daily_T100_displacement_estimate.csv")
