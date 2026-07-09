@@ -59,8 +59,6 @@ The Python example script requires a standard scientific Python environment, inc
 
 The processed CSV files can be opened directly in MATLAB, Python, R, Excel, or other data-analysis software.
 
-Example in MATLAB:
-
 In matlab:
 T = readtable('StepTD_daily_T100_displacement_estimate.csv');
 
