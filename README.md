@@ -49,7 +49,6 @@ Users should download these raw datasets from the official data portals if they 
 
 The original analysis was developed primarily in MATLAB and python.
 
-- MATLAB version used by the authors: MATLAB R2024b
 - Example MATLAB script: `Merge_StepNM_StepTD_StepSK.m`
 - Example Python script: `mechanistic_closure_satellite_precursor_skill.py`
 - Processed data format: CSV
